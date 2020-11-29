@@ -1,6 +1,6 @@
 # 微信界面模拟器
 
-项目地址：https://gitee.com/jackypi/weixin-model
+项目地址：https://gitee.com/chongqingmeizhi/weixin-model.git
 
 微信对话生成器，您只需要个添加用户，然后选择你要发对话的类型，如文字、图片、视频、语音、转账、收账、发红包等，对话内容设置好后点击生成图片，一键保存即可，3个用户以上可以进行群聊哦。这个是一个微商微信支付宝米图生成器神器，是微商必不可少的好工具
 
@@ -14,7 +14,7 @@
 > 模拟效果为iOS13.x ，包括了Dark模式
 联系方式：微信公众号 Tilamaker 此代码仅限个人学习，如商用请联系公众号。
 
-预览地址：https://jackypi.gitee.io/weixin-model/
+预览地址：https://chongqingmeizhi.gitee.io/weixin-model/
 
 ### 效果预览
 ![](/preview-1.gif)
@@ -26,7 +26,7 @@
 
 ## 克隆本地址
 ```
-git clone https://gitee.com/jackypi/weixin-model
+git clone https://gitee.com/chongqingmeizhi/weixin-model.git
 ```
 ## Project setup
 ```
